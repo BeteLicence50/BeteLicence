@@ -40,7 +40,7 @@ Hi there, thanks for stopping by, this is **BeteLicence50**.
       
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://twitter.com/Blicence49" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @Braiik on GitHub">Follow @Braiik</a>
+<a class="github-button" href="https://twitter.com/Blicence49" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @Braiik on GitHub">Follow @BeteLIcence50a>
 
 
 <br>
