@@ -47,4 +47,4 @@ Hi there, thanks for stopping by, this is **BeteLicence50**.
 
 ---
 
-🔎 From [@!"H-Nooby](https://github.com/BetLicence50)
+🔎 From [@!"H-Nooby](https://github.com/BeteLicence50)
